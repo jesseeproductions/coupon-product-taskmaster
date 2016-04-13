@@ -1,8 +1,8 @@
 {
   "name": "product-taskmaster",
-  "description": "This is a collection of Modern Tribe product Gulp tasks",
+  "description": "This is a collection of Coupon product Gulp tasks based off Modern Tribes Product Taskmaster",
   "version": "0.0.1",
-  "repository": "git@github.com:moderntribe/product-taskmaster.git",
+  "repository": "git@github.com:jesseeproductions/coupon-product-taskmaster.git",
   "main": "index.js",
   "dependencies": {
     "fs-sync": "^1.0.2",

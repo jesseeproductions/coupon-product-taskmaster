@@ -1,6 +1,6 @@
 # Product Taskmaster
 
-This is a collection of Modern Tribe product Gulp tasks
+This is a collection of Coupon Creator product Gulp tasks based off [Modern Tribe's Product Task Master](https://github.com/moderntribe/product-taskmaster)
 
 ## Installing in a plugin
 
@@ -9,7 +9,7 @@ that in a repository, simply add the following to your plugin's
 `package.json` in the `devDependencies` section:
 
 ```
-"product-taskmaster": "git+https://github.com/moderntribe/product-taskmaster.git",
+"product-taskmaster": "git+https://github.com/jesseeproductions/coupon-product-taskmaster.git",
 ```
 
 ### GlotPress
@@ -19,9 +19,9 @@ should be added into the `package.json` as well:
 
 ```
 "_domainPath": "lang",
-"_textDomain": "the-events-calendar",
+"_textDomain": "coupon-creator",
 "_glotPressUrl": "https://translate.wordpress.org",
-"_glotPressSlug": "wp-plugins/the-events-calendar/stable",
+"_glotPressSlug": "wp-plugins/coupon-creator/stable",
 "_glotPressFileFormat": "%textdomain%-%wp_locale%.%format%",
 "_glotPressFormats": [
 	"po",
