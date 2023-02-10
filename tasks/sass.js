@@ -1,5 +1,5 @@
 var gulp = require( 'gulp' );
-var sass = require( 'gulp-sass' );
+var sass = require( 'sass' );
 
 var sass_task = function() {
   'use strict';
